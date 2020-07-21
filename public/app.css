@@ -147,7 +147,7 @@ color: black;
 				color: #687281; text-align: center;}
 .contact h3 {	margin-top: 0;font-size: 15px; font-weight: 300; 
 				color: #687281;text-align: center;}
-.contact form { margin: 0 auto; }
+.contact form { }
 input, textarea { 
 resize: none;	
 					}
@@ -163,6 +163,7 @@ resize: none;
 	padding: 100px 20% 0;
 	padding-bottom: 100px;
 	width: 100%;
+		margin: 0 auto ;
 
 	
 
