@@ -157,6 +157,7 @@ input, textarea { 	resize: none;
 	padding: 100px 12% 0;
 	padding-bottom: 100px;
 	width: 100%;
+	display: inline-block;
 	
 
 
