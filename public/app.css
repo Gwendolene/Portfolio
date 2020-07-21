@@ -136,17 +136,19 @@ color: black;
 .contact {
 	display: inline-block;
 	background-color: #eff3f9;
-	padding: 80px 12% 0;
+	padding: 5% 20% 10%;
 	align-content: center;
+	margin-right: 0;
 	width: 100%;
 
+
 }
-.contact h1 { 	margin-top: 100;font-size: 20px; font-weight: 500; 
+.contact h1 { 	margin-top: 0;font-size: 20px; font-weight: 500; 
 				color: #687281; text-align: center;}
 .contact h3 {	margin-top: 0;font-size: 15px; font-weight: 300; 
 				color: #687281;text-align: center;}
-.contact form {}
-input, textarea { 	resize: none; 
+.contact form { align-content: center; }
+input, textarea { 	width: 100%; 
 					}
 
 
@@ -154,10 +156,10 @@ input, textarea { 	resize: none;
 
 .footer { background-color: #232B5E;
 	color: #C1D0D2;
-	padding: 100px 12% 0;
+	padding: 100px 20% 0;
 	padding-bottom: 100px;
 	width: 100%;
-	display: inline-block;
+
 	
 
 
